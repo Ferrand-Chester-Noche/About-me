@@ -2,13 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=00ff41&width=600&height=60&lines=Hi,+I'm+Ferrand+Chester+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-## Connect to me
-<a href="https://www.linkedin.com/in/ferrandchesternoche/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-</a>
-<a href="mailto:fdnoche@up.edu.ph">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
 
 ###
 </div>  
@@ -36,7 +29,14 @@ Hello, I'm Ferrand Chester Noche, a passionate Computer Science student with a s
 
 - 🤖 Machine Learning and Artificial Intelligence: The world of AI and machine learning never ceases to amaze me, and I'm eager to delve deeper into this field.
 
-## Connect with Me
+## Connect to me
+<a href="https://www.linkedin.com/in/ferrandchesternoche/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+<a href="mailto:fdnoche@up.edu.ph">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
+
 
 - 🔗 LinkedIn: [Ferrand Chester Noche](https://www.linkedin.com/in/ferrandchesternoche/)
 - 📧 Email: fdnoche@up.edu.ph
