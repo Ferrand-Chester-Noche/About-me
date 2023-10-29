@@ -1,3 +1,9 @@
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=F7F7F7&width=600&height=60&lines=Hi,+I'm+Ferr+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+</div>  
+
 # Introduction
 
 Hello, I'm Ferrand Chester Noche, a passionate Computer Science student with a specialization in Statistical Computation at the University of the Philippines Manila. I'm excited to share a bit about myself and my involvement in the tech community.
