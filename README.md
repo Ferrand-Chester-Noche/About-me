@@ -24,7 +24,7 @@ Hello, I'm Ferrand Chester Noche, a passionate Computer Science student with a s
 ## Connect with Me
 
 - 🔗 LinkedIn: [Ferrand Chester Noche](https://www.linkedin.com/in/ferrandchesternoche/)
-- 📧 Email: your.email@example.com
+- 📧 Email: fdnoche@up.edu.ph
 
 Feel free to reach out if you'd like to connect or discuss anything related to computer science, data, technology, or if you just want to say hi!
 
