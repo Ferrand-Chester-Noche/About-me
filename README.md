@@ -2,6 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=00ff41&width=600&height=60&lines=Hi,+I'm+Ferrand+Chester+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/811541cf3a5acf308a5079febaa31e37-1602084278/Pixxle_Character_Animation/do-high-quality-pixel-art-and-animations.gif" alt="Pixel Art Animation" width="300" height="200">
+
 
 ###
 </div>  
