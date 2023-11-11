@@ -2,8 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=00ff41&width=600&height=60&lines=Hi,+I'm+Ferrand+Chester+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/811541cf3a5acf308a5079febaa31e37-1602084278/Pixxle_Character_Animation/do-high-quality-pixel-art-and-animations.gif" alt="Pixel Art Animation" width="300" height="200">
-
+<img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 
 ###
 </div>  
@@ -46,3 +45,11 @@ Hello, I'm Ferrand Chester Noche, a passionate Computer Science student with a s
 Feel free to reach out if you'd like to connect or discuss anything related to computer science, data, technology, or if you just want to say hi!
 
 Thank you for stopping by, and I look forward to engaging with the tech community and learning together.
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
