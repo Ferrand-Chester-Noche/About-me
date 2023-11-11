@@ -46,10 +46,4 @@ Feel free to reach out if you'd like to connect or discuss anything related to c
 
 Thank you for stopping by, and I look forward to engaging with the tech community and learning together.
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
