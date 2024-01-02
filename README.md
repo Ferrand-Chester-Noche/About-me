@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=00ff41&width=600&height=60&lines=Hi,+I'm+Ferrand+Chester+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+<img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNjbDdmOGxyeXhsZmgyNjRpeTY4MHhvaW1sZGhpdDdndjU2dHVzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 ###
 </div>  
