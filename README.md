@@ -9,8 +9,8 @@
 
 ## Academic Background
 
-- 📚 Currently pursuing a degree in Computer Science at the University of the Philippines Manila.
-- 📈 Specializing in Statistical Computation, I'm fascinated by the power of data and statistics in solving real-world problems.
+- 📚 Currently pursuing a degree in Computer Science at the University of the Philippines Manila
+- 📈 Specializing in Statistical Computation
 
 ## Involvement in Tech Communities
 - 🌐 Member of the Google Developer Students Club (DSC) Manila
