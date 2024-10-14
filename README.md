@@ -13,15 +13,17 @@
 - 📈 Specializing in Statistical Computation
 
 ## Involvement in Tech Communities
-- 🌐 Member of the Google Developer Students Club (DSC) Manila
+- 🌐 Chief Technology Officer at Google Developer Groups on Campus UP Manila
+- 🔧 Ex DevSecOps Engineering Intern at MSCI Inc.
 - 💻 University of the Philippines Society of Computer Scientists
   
 ## Interests
 
 - 📊 Data Science and Statistical Analysis
+- 🔧 Automation, Pipelining
 - 🎮 Game Development
 - 🌐 Web Development
-- 🤖 Machine Learning and Artificial Intelligence
+- 🤖 Machine/Deep Learning and Artificial Intelligence
 
 ## Connect to me
 <a href="https://www.linkedin.com/in/ferrandchesternoche/">
